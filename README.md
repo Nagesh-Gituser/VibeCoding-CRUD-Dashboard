@@ -1,2 +1,2 @@
 # VibeCoding-CRUD-Dashboard
-Use the Requirement.md file to build the application based on the requirements
+Use the projectbrief.md file to build the application 
