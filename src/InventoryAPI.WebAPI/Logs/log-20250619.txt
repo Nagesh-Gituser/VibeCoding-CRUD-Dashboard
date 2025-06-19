@@ -1,0 +1,45 @@
+2025-06-19 12:03:31.879 +05:30 [ERR] Failed executing DbCommand (393ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Products] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(200) NOT NULL,
+    [SKU] nvarchar(50) NOT NULL,
+    [Category] nvarchar(100) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [Quantity] int NOT NULL,
+    [IsLowStock] bit NOT NULL,
+    [ImageUrl] nvarchar(500) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    CONSTRAINT [PK_Products] PRIMARY KEY ([Id])
+);
+2025-06-19 12:19:11.164 +05:30 [ERR] Failed executing DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Products] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(200) NOT NULL,
+    [SKU] nvarchar(50) NOT NULL,
+    [Category] nvarchar(100) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [Quantity] int NOT NULL,
+    [IsLowStock] bit NOT NULL,
+    [ImageUrl] nvarchar(500) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    CONSTRAINT [PK_Products] PRIMARY KEY ([Id])
+);
+2025-06-19 12:20:22.969 +05:30 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Products] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(200) NOT NULL,
+    [SKU] nvarchar(50) NOT NULL,
+    [Category] nvarchar(100) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [Quantity] int NOT NULL,
+    [IsLowStock] bit NOT NULL,
+    [ImageUrl] nvarchar(500) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    CONSTRAINT [PK_Products] PRIMARY KEY ([Id])
+);
+2025-06-19 12:21:56.196 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-06-19 12:21:56.246 +05:30 [INF] HTTP GET /swagger. responded 404 in 53.3527 ms
+2025-06-19 12:22:35.403 +05:30 [INF] HTTP GET /api/Products responded 200 in 613.4146 ms

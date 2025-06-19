@@ -6,7 +6,8 @@ Every growing business hits a wall: messy spreadsheets, lost notes, and zero vis
 ## Your Core Mission: Build the MVP  
 Your goal is to build a single-page web application that delivers on this core user story:  
   
-"As a store manager, I want to see all my items in a central dashboard, be able to add, update, and remove stock instantly, and get quick insights into my inventory's health, so I can make smarter decisions and stop wasting time on manual data entry."  
+"As a store manager, I want to see all my items in a central dashboard, be able to add, update, and remove stock instantly, and get quick insights into my inventory's health, so I can make smarter decisions and stop wasting time on manual danalysing the current requirements from the Projectbrief.md file.
+ata entry."  
   
 ## MVP Requirements (The "Must-Haves")  
   

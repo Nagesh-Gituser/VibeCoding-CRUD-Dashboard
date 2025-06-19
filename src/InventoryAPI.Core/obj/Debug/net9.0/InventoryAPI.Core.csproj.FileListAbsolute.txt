@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\bin\Debug\net9.0\InventoryAPI.Core.deps.json
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\bin\Debug\net9.0\InventoryAPI.Core.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\bin\Debug\net9.0\InventoryAPI.Core.pdb
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.AssemblyInfo.cs
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.sourcelink.json
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\refint\InventoryAPI.Core.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\InventoryAPI.Core.pdb
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Core\obj\Debug\net9.0\ref\InventoryAPI.Core.dll

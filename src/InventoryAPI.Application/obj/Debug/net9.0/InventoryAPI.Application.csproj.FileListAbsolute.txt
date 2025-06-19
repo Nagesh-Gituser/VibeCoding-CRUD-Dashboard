@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\bin\Debug\net9.0\InventoryAPI.Application.deps.json
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\bin\Debug\net9.0\InventoryAPI.Application.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\bin\Debug\net9.0\InventoryAPI.Application.pdb
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\bin\Debug\net9.0\InventoryAPI.Core.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\bin\Debug\net9.0\InventoryAPI.Core.pdb
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.AssemblyInfo.cs
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.sourcelink.json
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\Inventor.5CA63E1F.Up2Date
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\refint\InventoryAPI.Application.dll
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\InventoryAPI.Application.pdb
+C:\Users\Administrator\Documents\My Web Sites\VC_CRUD_API\VibeCoding-CRUD-Dashboard\src\InventoryAPI.Application\obj\Debug\net9.0\ref\InventoryAPI.Application.dll
